@@ -11,7 +11,7 @@ pool:
 
 steps:
 - script: echo Arrey's Foundation!
-  displayName: 'Run a two-line script'
+  displayName: 'Run a one-line script'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
